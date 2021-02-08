@@ -1,0 +1,11 @@
+{
+    "name": "Java Maven Workflow",
+    "description": "CI workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml"
+    ]
+}
